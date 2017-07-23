@@ -109,9 +109,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server m8",
-	"Thanks for joining the server!",
-	"Did you know we also host a darkrp server and starwars rp and school rp server?"
+	"Enjoy the server m8!",
+	"Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
+	"Crashing The Server Will Get You Ip Banned!",
+        "Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!"
 ];
 
 /*Random message order?*/
