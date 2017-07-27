@@ -94,7 +94,9 @@ var l_musicPlaylist = [
 	{youtube: "QCM0F8u_Zwo", name: "Aronchupa - I'm an Albatraoz"},
 	{youtube: "xR8RmZwQTKE", name: "Colours"},
 	{youtube: "jX9Ewp3Iqh4", name: "Linkin Park Shadow of the Day"},
-	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks"}
+	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks"},
+        {youtube: "4BYnfWzcn38", name: "You Reposted In The Wrong Neighbourhood"},
+        {youtube: "h8R0IsgPi10", name: "Torn - Natalie Imbruglia"}
 ];
 
 /*Random music order?*/
